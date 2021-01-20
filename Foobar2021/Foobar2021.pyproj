@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c96d608b-2dda-49d7-af3b-12b8ed4f8c27</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>fuel-injection-perfection.py</StartupFile>
+    <StartupFile>free-the-bunny-prisoners.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,6 +24,7 @@
     <Compile Include="dont-get-volunteered.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="free-the-bunny-prisoners.py" />
     <Compile Include="fuel-injection-perfection.py">
       <SubType>Code</SubType>
     </Compile>
