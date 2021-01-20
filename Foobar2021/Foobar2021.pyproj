@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c96d608b-2dda-49d7-af3b-12b8ed4f8c27</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>queue-to-do.py</StartupFile>
+    <StartupFile>prepare-the-bunnies-escape.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ion-flux-relabeling.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="prepare-the-bunnies-escape.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="queue-to-do.py">
